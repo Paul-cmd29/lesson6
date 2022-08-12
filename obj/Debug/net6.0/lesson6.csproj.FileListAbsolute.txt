@@ -1,0 +1,15 @@
+/Users/paul/Projects/lesson6/lesson6/bin/Debug/net6.0/lesson6
+/Users/paul/Projects/lesson6/lesson6/bin/Debug/net6.0/lesson6.deps.json
+/Users/paul/Projects/lesson6/lesson6/bin/Debug/net6.0/lesson6.runtimeconfig.json
+/Users/paul/Projects/lesson6/lesson6/bin/Debug/net6.0/lesson6.dll
+/Users/paul/Projects/lesson6/lesson6/bin/Debug/net6.0/lesson6.pdb
+/Users/paul/Projects/lesson6/lesson6/obj/Debug/net6.0/lesson6.csproj.AssemblyReference.cache
+/Users/paul/Projects/lesson6/lesson6/obj/Debug/net6.0/lesson6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Projects/lesson6/lesson6/obj/Debug/net6.0/lesson6.AssemblyInfoInputs.cache
+/Users/paul/Projects/lesson6/lesson6/obj/Debug/net6.0/lesson6.AssemblyInfo.cs
+/Users/paul/Projects/lesson6/lesson6/obj/Debug/net6.0/lesson6.csproj.CoreCompileInputs.cache
+/Users/paul/Projects/lesson6/lesson6/obj/Debug/net6.0/lesson6.dll
+/Users/paul/Projects/lesson6/lesson6/obj/Debug/net6.0/refint/lesson6.dll
+/Users/paul/Projects/lesson6/lesson6/obj/Debug/net6.0/lesson6.pdb
+/Users/paul/Projects/lesson6/lesson6/obj/Debug/net6.0/lesson6.genruntimeconfig.cache
+/Users/paul/Projects/lesson6/lesson6/obj/Debug/net6.0/ref/lesson6.dll
