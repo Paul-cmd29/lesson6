@@ -5,7 +5,7 @@ public class Lesson
     {
         Sort();
         
-
+//too big space 
 
     }
 
@@ -17,7 +17,7 @@ public class Lesson
 
 
     //}
-
+//try to avoid the commented code
 
     public static void Sort()
     {
@@ -31,7 +31,7 @@ public class Lesson
         //Console.WriteLine(orderBy);
 
         
-
+//too big space 
 
     }
    
@@ -85,7 +85,7 @@ public class Lesson
                     }
         }
 
-        
+        //void names should follow to Pascal notation, but variables names should follow to camel notation
         public void printArray(int[] arr)
         {
             int n = arr.Length;
@@ -123,9 +123,9 @@ public class Lesson
 
     
 
-    
+   //too big space 
 
 }
 
-
+//checked
 
